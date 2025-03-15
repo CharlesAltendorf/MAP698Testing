@@ -143,12 +143,13 @@ The Developments Layer was generated using building footprint data from CAGIS, w
 
 ## Landing Page with Mapbox Integration
 
-Based on further feedback, I chose to enhance the main landing page by integrating Mapbox’s 3D Buildings background layer, which provides a more dynamic and interactive experience. I uploaded the developments’ geojson file to Mapbox and applied a dark theme for better contrast. A slider was added to adjust the development years, with popups set up for future use.
+Based on further feedback, I enhanced the main landing page by integrating Mapbox’s **3D Buildings** background layer, creating a more dynamic and interactive experience. I uploaded the developments’ **GeoJSON** file to Mapbox and applied a dark theme for improved contrast. Additionally, I implemented a **slider** to adjust development years, with popups prepared for future use.
 
 ![Main Landing Map](pictures/3DMAP.png)  
 ![Main Landing Source Code](pictures/sourcecode.png)
 
-Currently, the page is without CSS formatting, as I am still experimenting with alternatives to Bootstrap for styling. 
+Initially, I used **Bootstrap** for my landing pages, as it was the framework I was most familiar with during my studies. However, after discussing options with **Boyd**, I explored **Bulma**. I found it intuitive and well-suited for mobile environments, which is essential for modern web development.
+
 
 ## Interviews
 
@@ -211,6 +212,8 @@ The following steps were taken to process the audio files:
 # References
 
 ## Data
+
+Bulma Templates. (Jul 13, 2023). Personal template. Bulma Templates. Retrieved March 15, 2025, from https://bulmatemplates.github.io/bulma-templates/templates/personal.html
 
 Cincinnati Area Geographic Information System (CAGIS). (March 28, 2018). Building footprints. CAGIS Open Data Portal. Retrieved March 10, 2025, from https://data-cagisportal.opendata.arcgis.com/datasets/c16cf953e9f24695b8b202219b300bcc_6/explore
 
@@ -299,6 +302,8 @@ Agafonkin, V. (2023). Leaflet (Version 1.9.3) [JavaScript library]. Retrieved fr
 Audacity Team. (2020). Audacity (Version 2.4.2) [Software]. https://audacityteam.org/
 
 Bootstrap. (2022). Bootstrap (Version 5.2.3) [CSS framework]. Retrieved from https://getbootstrap.com
+
+Bulma. (2025). Bulma CSS Framework (Version 1.0.2). Retrieved from https://unpkg.com/bulma@1.0.2/css/bulma.min.css
 
 Kadlec, J. (2023). DataPlotly (Version 4.2) [QGIS Plugin]. Retrieved from https://plugins.qgis.org/plugins/DataPlotly/
 
