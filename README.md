@@ -180,7 +180,7 @@ The following steps were taken to process the audio files:
 ### 2. CSS Experimentation  
 - Explore alternative CSS frameworks beyond Bootstrap.  
 - Enhance the landing map design and transition to external content.  
-- **Estimated time:** 5 hours.  
+- **Estimated time:** 5 hours.  Completed 3/15/2025 in about 7 hours.  
 
 ### 3. Popup Finishing Touches  
 - Refine popup design (fields, screen space usage).  
@@ -204,7 +204,7 @@ The following steps were taken to process the audio files:
 | Task | Deadline |  
 |---|---|  
 | **Complete Interviews** | 3/29 |  
-| **CSS Experimentation** | 4/6 |  
+| **CSS Experimentation** | 4/6 (Completed 3/15/2025) |  
 | **Popup Finishing Touches** | 3/22 |  
 | **Finalize 3D Model Colors** | 3/22 |  
 | **Incorporate Choropleth Map** | 4/6 | 
