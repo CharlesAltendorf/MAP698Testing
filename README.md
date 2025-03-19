@@ -1,5 +1,4 @@
-# map698-proposal
-Charles Altendorf's proposal for spring 2025 proposal
+# Cincinnati’s Riverfront Renaissance: Tracking Population Growth and Development from 1990 to 2020
 
 # Project Overview  
 
