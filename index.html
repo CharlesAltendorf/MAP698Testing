@@ -197,7 +197,17 @@
                 Type: ${feature.Type}<br>
                 Year: ${feature.Year}<br>
                 Description: ${feature.Description}<br><br>
-                <iframe src="${feature.Website}" width="100%" height="80%" style="border:none;"></iframe>
+                <a href="${feature.Website}" target="_blank" style="
+                display: inline-block;
+                padding: 10px 15px;
+                background-color: #C6011F;
+                color: white;
+                text-decoration: none;
+                border-radius: 5px;
+                font-weight: bold;
+                ">
+                Visit Website
+                </a>              
               </div>
               `;
             popup.setLngLat(e.lngLat).setHTML(popupContent).addTo(map);
