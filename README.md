@@ -162,8 +162,8 @@ The following steps were taken to process the audio files:
    ![Audacity Import](pictures/AudacityImport.png)
 3. Export the audio as an MP3  
    ![Audacity Export](pictures/AudacityExport.png)
-4. Upload the audio to Red Circle for podcast distribution  
-   ![Red Circle](pictures/RedCircle.png)
+4. Upload the audio to Podbean for podcast distribution  
+   ![Podbean](pictures/Podbean.png)
 
 # Strategies
 
@@ -256,9 +256,9 @@ Business View Publishing. (2025, Jan 2). Cincinnati, Ohio: A business view [Webp
 
 ## Interviews
 
-Schindler, B. (2025, March 10). Interview with Bob Schindler [Audio interview]. Red Circle. UR
+Schindler, B. (2025, March 10). Interview with Bob Schindler [Audio interview]. Podbean. UR
 
-Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Red Circle. UR
+Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Podbean. UR
 
 ## Literature
 
@@ -312,6 +312,6 @@ Microsoft. (2025). Microsoft Teams (Version 1415/24120100221) [Computer software
 
 Microsoft. (2025). OneDrive [Web application]. Microsoft Corporation. Retrieved March 11, 2025, from https://onedrive.live.com/
 
-RedCircle. (2025). RedCircle podcast hosting and monetization platform. https://www.redcircle.com/
+Podbean. (n.d.). Podbean: Podcast hosting and monetization platform. Podbean. https://www.podbean.com
 
 QGIS Development Team. (2023). QGIS Geographic Information System (Version 3.32.3). Open Source Geospatial Foundation. https://qgis.org
